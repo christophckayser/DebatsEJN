@@ -1,9 +1,7 @@
 This folder contains the processed data and matlab scripts to produce the figures of the following publication:
 
-"Different time scales of common-cause evidence shape multisensory integration, recalibration and motor adaptation n"
-
-
-
+"Different time scales of common-cause evidence shape multisensory integration, recalibration and motor adaptation"
+Published Eur J Neurosci. 2023 Sep;58(5):3253-3269. doi: 10.1111/ejn.16095. 
 By: Nienke B Debats, Herbert Heuer and Christoph Kayser Department of Cognitive Neuroscience, Universität Bielefeld, Bielefeld, Germany Leibniz Research Centre for Working Environment and Human Factors, Dortmund, Germany Contact: Christoph.kayser@uni-bielefeld.de
 
 This folder contains matlab scripts producing
